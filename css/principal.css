@@ -1,0 +1,13 @@
+.container{
+    width: 1000px;
+}
+
+#logout_link {
+    background-color: #ca3746;
+    color: white; 
+    padding: 0.5rem 1rem; 
+}
+
+#logout_link:hover {
+    background-color: #c82333; 
+}
